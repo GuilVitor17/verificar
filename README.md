@@ -1,5 +1,5 @@
 # Verificador-de-iadade
-# Verificador de idade, A função de App é escolher uma data de nacimento e ai aparecera uma iamgem corespondente com a idade da pessoa.
+# Verificador de idade, A função de App é escolher uma data de nacimento e ai aparecera uma imagem corespondente com a idade da pessoa.
 # tela de Inicio.
 ![Opera Instantâneo_2022-07-26_135201_guilvitor github io](https://user-images.githubusercontent.com/109220774/181066529-7f60f274-0372-40da-bbc7-04fff1b597fc.png)
 # Escolhendo a idade e o Retorno Masculino.
